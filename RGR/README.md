@@ -2,7 +2,7 @@
  RGR Data Bases
 Модель «сутність-зв’язок» для створення електронного довідника для зберігання технічних характеристик товарів.
 
- ![image]([https://github.com/Devded86/DB_KPI/tree/main/RGR](https://github.com/Devded86/DB_KPI/blob/main/lab1/ERdiagram.png))
+ ![image](https://github.com/Devded86/DB_KPI/blob/main/lab1/ERdiagram.png)
 
 
 ER-діагарама побудована за нотацією «Crow`s foot»
